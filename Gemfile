@@ -47,7 +47,7 @@ group :development do
 end
 
 group :production do
-  
+
 end
 
 gem 'devise'
