@@ -55,6 +55,6 @@ end
 group :production do
 
 end
-
+gem 'bcrypt'
 gem 'devise'
 gem 'bootstrap-sass'
